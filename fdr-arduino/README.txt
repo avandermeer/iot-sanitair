@@ -1,0 +1,1 @@
+Voor schema zie bron: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr
