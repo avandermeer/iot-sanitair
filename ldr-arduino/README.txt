@@ -1,0 +1,1 @@
+https://diyhacking.com/arduino-ldr-sensor/
